@@ -26,7 +26,7 @@ SECRET_KEY = '!6^ei*0=1b0**7n*mi0envfhetz!)i6_iw@#d187*c7fnd@ukg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://aotter420.pythonanywhere.com/']
+ALLOWED_HOSTS = ['aotter420.pythonanywhere.com']
 
 
 # Application definition
